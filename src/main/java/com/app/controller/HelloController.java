@@ -20,6 +20,8 @@ public class HelloController {
 	@PostConstruct
 	public void myInit() {
 		System.out.println("in init");
+		System.out.println("in init1");
+		System.out.println("in init2sads");
 	}
 
 	// request handling method
